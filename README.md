@@ -1,5 +1,5 @@
 <!--knightofy-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=fffff&width=29&lines=knighofy" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=fffff&width=29&lines=knighofy" alt="Typing SVG"/>
 
 # About Me
 Hi! I'm Dani.
