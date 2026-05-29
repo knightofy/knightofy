@@ -38,3 +38,6 @@ Hi! I'm Dani. I'm a computer networking student at a vocational high school.
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight-duo)](https://git.io/streak-stats)
