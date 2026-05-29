@@ -41,3 +41,5 @@ Hi! I'm Dani. I'm a computer networking student at a vocational high school.
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+.[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofy&layout=compact&theme=tokyonight-duo)
