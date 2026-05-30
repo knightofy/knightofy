@@ -40,6 +40,8 @@ Hi! I'm Dani. I'm a computer networking student at a vocational high school.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight)](https://git.io/streak-stats)
+.[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofy&theme=tokyonight)]
 
-.[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofy&theme=tokyonight-duo)]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/knightofy/github-readme-quotes)
+
