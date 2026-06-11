@@ -18,11 +18,11 @@ Hi! I'm Dani. I'm a computer networking student at a vocational high school. I a
 ![Snapseed](https://img.shields.io/badge/Snapseed-4285F4?style=for-the-badge&logo=snapseed&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)
 
 ## 📊 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight)](https://git.io/streak-stats)
-.[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofy&theme=tokyonight)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofy&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofy&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=knightofy&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/knightofy/github-readme-quotes)
 
